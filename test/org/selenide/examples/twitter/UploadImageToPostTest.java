@@ -1,6 +1,5 @@
 package org.selenide.examples.twitter;
 
-import com.codeborne.selenide.CollectionCondition;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
